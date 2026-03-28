@@ -1,2 +1,4 @@
-Change from remote/main
-Change message in main
+HEAD
+Message from main branch
+Message from feature branch
+feature-greeting
